@@ -1,3 +1,5 @@
+#$${\color{yellow}**Martin's Profile**}$$
+
 👋 Hello there! I'm Martin Repáraz, an Industrial Electronics & Automation Engineer, and Embedded Systems Engineering Master's graduate.
 
 🛠️ Throughout my career, I've been passionate about integrating cutting-edge technologies to enhance industrial processes and systems. I thrive on finding innovative solutions to complex engineering challenges.
