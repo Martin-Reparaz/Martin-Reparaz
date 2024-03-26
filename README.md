@@ -1,4 +1,4 @@
-$${\color{yellow}** WELCOME TO MARTIN'S PROFILE**}$$
+$${\color{yellow}** WELCOME \space TO \space MARTIN'S \space PROFILE**}$$
 
 👋 Hello there! I'm Martin Repáraz, an Industrial Electronics & Automation Engineer, and Embedded Systems Engineering Master's graduate.
 
