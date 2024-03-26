@@ -1,6 +1,6 @@
 👋 Hello there! I'm Martin Repáraz, an Industrial Electronics & Automation Engineer, and Embedded Systems Engineering Master's graduate.
 
-🛠️ Throughout my career, I've been passionate about integrating cutting-edge technologies to enhance industrial processes and systems. From designing efficient control systems to optimizing manufacturing processes, I thrive on finding innovative solutions to complex engineering challenges.
+🛠️ Throughout my career, I've been passionate about integrating cutting-edge technologies to enhance industrial processes and systems. I thrive on finding innovative solutions to complex engineering challenges.
 
 💻 My journey has led me to delve deep into the realm of embedded systems, where I've honed my skills in developing firmware and software for various applications. Whether it's programming microcontrollers for real-time control or implementing communication protocols for seamless integration, I'm constantly exploring new ways to leverage embedded technologies.
 
