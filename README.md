@@ -20,6 +20,7 @@ $${\color{lightgreen}** \space\space WELCOME \space\space TO \space\space MARTIN
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 [<img align="left" alt="Martin-Reparaz | LinkedIn" width="22px" src="./linkedin_color.svg" />](https://www.linkedin.com/in/martinjavierreparaz)
 [<img align="left" alt="Martin-Reparaz | Gmail" width="22px" src="./gmail_color.svg" />](mailto:mreparaz97@gmail.com)
