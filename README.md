@@ -1,5 +1,11 @@
 $${\color{lightgreen}** \space\space WELCOME \space\space TO \space\space MARTIN'S \space\space PROFILE \space\space **}$$
 
+[<img align="left" alt="Martin-Reparaz | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Martin-Reparaz | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="Martin-Reparaz | x" width="22px" src="./x.svg" />][x]
+
+Follow me on my social media.
+
 👋 Hello there! I'm Martin Repáraz, an Industrial Electronics & Automation Engineer, and Embedded Systems Engineering Master's graduate.
 
 🛠️ Throughout my career, I've been passionate about integrating cutting-edge technologies to enhance industrial processes and systems. I thrive on finding innovative solutions to complex engineering challenges.
@@ -9,3 +15,7 @@ $${\color{lightgreen}** \space\space WELCOME \space\space TO \space\space MARTIN
 🔧 When I'm not immersed in the world of electronics and automation, you can find me tinkering with hardware prototypes, contributing to the world of makers or exploring open-source projects.
 
 🌟 I'm always eager to collaborate on exciting projects and contribute to the ever-evolving landscape of technology. Let's connect and build something amazing together!
+
+[linkedin]: www.linkedin.com/in/martinjavierreparaz
+[gmail]: mreparaz97@gmail.com
+[x]: @MartinReparaz
