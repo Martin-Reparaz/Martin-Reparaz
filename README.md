@@ -21,6 +21,9 @@ $${\color{lightgreen}** \space\space WELCOME \space\space TO \space\space MARTIN
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+	![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 [<img align="left" alt="Martin-Reparaz | LinkedIn" width="22px" src="./linkedin_color.svg" />](https://www.linkedin.com/in/martinjavierreparaz)
 [<img align="left" alt="Martin-Reparaz | Gmail" width="22px" src="./gmail_color.svg" />](mailto:mreparaz97@gmail.com)
